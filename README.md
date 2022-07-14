@@ -12,7 +12,7 @@ The pipeline is summaized as:
 
 3) Compute the RGB values based on RGB cube;
 
-4）Output the ball-based model for rendering.
+4）Output the ball-based model for rendering;
 
 Using the start.bat to run the program.
 
